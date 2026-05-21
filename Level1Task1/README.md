@@ -1,6 +1,6 @@
 # Level1Task1
 
-This is Task 1 of the OASIS INFOBYTE internship.
+This is Task 1 in Level 1 of the OASIS INFOBYTE internship.
 
 ## Project
 
