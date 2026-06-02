@@ -48,6 +48,16 @@ https://ksujana23.github.io/OIBSIPSUJANA/Level2Task1/
 
 ---
 
+## 🔹 Task 2 – Tribute Page
+
+### 📌 Description
+A modern tribute page dedicated to Dr. A.P.J Abdul Kalam featuring a premium black and gold theme, inspirational quote, biography, and elegant responsive design.
+
+### 🌐 Live Demo
+https://ksujana23.github.io/OIBSIPSUJANA/Level2Task2/
+
+---
+
 # 🛠️ Technologies Used
 
 - HTML5
@@ -63,6 +73,7 @@ OIBSIPSUJANA/
 ├── Level1Task2
 ├── Level1Task3
 ├── Level2Task1
+├── Level2Task2
 └── README.md
 
 ---
