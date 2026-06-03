@@ -68,6 +68,16 @@ https://ksujana23.github.io/OIBSIPSUJANA/Level2Task3/
 
 ---
 
+## 🔹 Task 4 – Login Authentication System
+
+### 📌 Description
+A pastel pink themed Login Authentication System with registration, login validation, dashboard access, logout functionality, and Local Storage authentication.
+
+### 🌐 Live Demo
+https://ksujana23.github.io/OIBSIPSUJANA/Level2Task4/
+
+---
+
 # 🛠️ Technologies Used
 
 - HTML5
@@ -85,6 +95,7 @@ OIBSIPSUJANA/
 ├── Level2Task1
 ├── Level2Task2
 ├── Level2Task3
+├── Level2Task4
 └── README.md
 
 ---
@@ -97,6 +108,9 @@ OIBSIPSUJANA/
 - Interactive Components
 - GitHub Pages Deployment
 - Clean and Structured Code
+- Glassmorphism Effects
+- Authentication System
+- Dynamic Task Management
 
 ---
 
